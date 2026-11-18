@@ -1,0 +1,11 @@
+{
+  "name": "my-metallic-wisp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "wisp-js-server --host 0.0.0.0 --port $PORT"
+  },
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "^0.4.0"
+  }
+}
